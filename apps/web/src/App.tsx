@@ -1,7 +1,9 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import { HelloWorld } from "@demo/base";
+import { HelloWorld } from "@base/index";
+
+const v = 10;
 
 function App() {
   return (
