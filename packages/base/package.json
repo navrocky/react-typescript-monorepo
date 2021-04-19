@@ -1,0 +1,15 @@
+{
+  "name": "@demo/base",
+  "version": "1.0.0",
+  "description": "Template for setting up a TypeScript monorepo",
+  "main": "dist/index",
+  "types": "dist/index",
+  "private": true,
+  "peerDependencies": {
+    "react": "^17.0.0"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "@types/react": "^17.0.0"
+  }
+}
